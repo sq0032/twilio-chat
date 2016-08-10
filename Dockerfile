@@ -7,3 +7,4 @@ RUN npm install
 COPY favicon.ico /app/favicon.ico
 COPY src /app/src/
 COPY test /app/test/
+COPY index.html /app/index.html
