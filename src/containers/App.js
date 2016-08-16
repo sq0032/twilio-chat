@@ -14,6 +14,7 @@ class App extends Component {
     
     return (
       <div>
+        <div>Chat App</div>
         <div>Token: {token}</div>
         <div>Error: {error}</div>
       </div>
